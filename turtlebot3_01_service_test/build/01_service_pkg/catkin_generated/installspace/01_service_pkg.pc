@@ -1,0 +1,8 @@
+prefix=/home/a/公共的/turtlebot3_01_service_test/install
+
+Name: 01_service_pkg
+Description: Description of 01_service_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+01_service_pkg
+-DCATKIN_DEVEL_PREFIX=/home/a/公共的/turtlebot3_01_service_test/devel -DCMAKE_INSTALL_PREFIX=/home/a/公共的/turtlebot3_01_service_test/install -G Unix Makefiles
